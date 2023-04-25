@@ -1,0 +1,24 @@
+
+showLastUpdated = false
+
+# Terminal Theme Params ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# ["orange", "blue", "red", "green", "pink"]
+themeColor = "orange"
+
+# show selector to switch language
+showLanguageSelector = false
+
+# set theme to full screen width
+fullWidthTheme = false
+
+# center theme with _default width
+centerTheme = true
+
+# Labels :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+keywords = "La Traca, Kasal, Casal, Barcelona, Clot, La Farinera"
+#menuMore = "Show items"
+
+# Logo Params ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[logo]
+logoText = "La Traca"
